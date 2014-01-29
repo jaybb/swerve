@@ -71,13 +71,13 @@ img {
 	margin: 0 auto;
 	display: block;
 }
-footer {
+#footer {
 	font-family: 'Lobster', cursive;
 	margin: 50px 0 50px 0;
 	font-size: 2.3em;
 }
 
-footer p {
+#footer p {
 	padding: 10px;
 }
 
